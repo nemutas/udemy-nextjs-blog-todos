@@ -14,6 +14,6 @@ https://udemy-nextjs-blog-todos-gray.vercel.app/
 
 
 # Detail
-アプリケーションは、Vercelにデプロイしています。<br>
-概念図
+アプリケーションは、Vercelにデプロイしています。
 
+![imge2](https://user-images.githubusercontent.com/46724121/127026712-5a06223a-076e-47e9-93e8-d3ac966a0d50.png)
